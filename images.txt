@@ -1,8 +1,9 @@
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-projecthami/hami:v2.3.12
-docker.io/mysql:latest
-openstack/nova:latest
+--k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+--xhofe/alist:latest
+--projecthami/hami:v2.3.12
+--docker.io/mysql:latest
+--openstack/nova:latest
+nvidia/nvidia_gpu_exporter:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
