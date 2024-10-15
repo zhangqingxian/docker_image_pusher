@@ -1,6 +1,7 @@
 #支持私库
 #nvidia/nvidia_gpu_exporter:latest
 #zookeeper/zookeeper:3.6.1
-rabbitmqoperator/cluster-operator:1.10.0
+#rabbitmqoperator/cluster-operator:1.10.0
+clickhouse/clickhouse-server:22.3
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
