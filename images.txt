@@ -3,6 +3,11 @@
 #zookeeper/zookeeper:3.6.1
 #rabbitmqoperator/cluster-operator:1.10.0
 #clickhouse/clickhouse-server:22.3
-container-registry.oracle.com/mysql/community-operator:9.1.0-2.2.2
+#container-registry.oracle.com/mysql/community-operator:9.1.0-2.2.2
+docker.io/bitpoke/mysql-operator
+docker.io/bitpoke/mysql-operator-sidecar-5.7
+docker.io/bitpoke/mysql-operator-sidecar-8.0
+docker.io/prom/mysqld-exporter:v0.13.0
+docker.io/bitpoke/mysql-operator-orchestrator
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
