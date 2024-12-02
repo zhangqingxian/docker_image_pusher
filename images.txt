@@ -7,7 +7,7 @@
 #docker.io/prom/mysqld-exporter:v0.13.0
 #docker.io/bitpoke/mysql-operator
 #gcr.io/distroless/base-debian11@sha256:e76722f06f7c15e0076072fb02782ec59923b0d658b8a3d80bb79deaee6fb44d
-#docker.io/bitpoke/mysql-operator
+bitpoke/mysql-operator:v0.6.3
 docker.io/bitpoke/mysql-operator-sidecar-5.7
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
