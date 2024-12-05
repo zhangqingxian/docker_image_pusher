@@ -11,6 +11,6 @@
 #bitpoke/mysql-operator-sidecar-5.7:v0.6.3
 #bitpoke/mysql-operator-sidecar-8.0:v0.6.3
 #bitpoke/mysql-operator-orchestrator:v0.6.3
-docker.elastic.co/elasticsearch/elasticsearch:8.1.0
+docker.elastic.co/elasticsearch/elasticsearch:7.17.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
