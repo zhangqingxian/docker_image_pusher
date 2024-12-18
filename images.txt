@@ -13,6 +13,7 @@
 #bitpoke/mysql-operator-orchestrator:v0.6.3
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.0
 #percona:8.0.19-10
-dgtlmoon/changedetection.io
+#dgtlmoon/changedetection.io
+rabbitmq:3.8.8-management
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
