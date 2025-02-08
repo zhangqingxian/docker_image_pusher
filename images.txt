@@ -14,6 +14,9 @@
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.0
 #percona:8.0.19-10
 #dgtlmoon/changedetection.io
-rabbitmq:3.8.8-management
+#rabbitmq:3.8.8-management
+apache/apisix:3.11.0-debian
+busybox:1.28
+bitnami/etcd:3.5.10-debian-11-r2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
