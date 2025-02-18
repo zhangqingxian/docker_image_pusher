@@ -23,6 +23,7 @@
 #bitnami/os-shell:11-debian-11-r91
 #apache/apisix-dashboard:3.0.0-alpine
 #openjdk:17
-xhofe/alist:latest
+#xhofe/alist:latest
+python:3.8-alpine
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
