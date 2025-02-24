@@ -26,6 +26,7 @@
 #xhofe/alist:latest
 #python:3.8-alpine
 #python:3.8.10
-tomcat:8.5.41-jre8-alpine
+#tomcat:8.5.41-jre8-alpine
+opcm/pcm
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
