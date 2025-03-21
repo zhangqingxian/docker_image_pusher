@@ -29,6 +29,7 @@
 #tomcat:8.5.41-jre8-alpine
 #opcm/pcm
 #python:3.10
-apache/apisix:2.15.3-debian
+#apache/apisix:2.15.3-debian
+heartexlabs/label-studio:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
