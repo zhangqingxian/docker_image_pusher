@@ -30,6 +30,7 @@
 #opcm/pcm
 #python:3.10
 #apache/apisix:2.15.3-debian
-heartexlabs/label-studio:latest
+#heartexlabs/label-studio:latest
+postgres:13
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
