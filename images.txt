@@ -31,6 +31,7 @@
 #python:3.10
 #apache/apisix:2.15.3-debian
 #heartexlabs/label-studio:latest
-postgres:13
+#postgres:13
+bitnami/postgresql:15.10.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
