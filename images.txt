@@ -33,7 +33,8 @@
 #heartexlabs/label-studio:latest
 #postgres:13
 #bitnami/postgresql:15.10.0
-kong:2.4.1
-pantsel/konga:latest
+#kong:2.4.1
+#pantsel/konga:latest
+postgres:10.6
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
