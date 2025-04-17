@@ -36,6 +36,7 @@
 #kong:2.4.1
 #pantsel/konga:latest
 #postgres:10.6
-pantsel/konga:0.14.9
+#pantsel/konga:0.14.9
+apache/apisix:3.2.2-debian
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
