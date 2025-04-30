@@ -44,7 +44,7 @@
 #python:3.11-slim-bullseye
 #liangjw/kube-webhook-certgen:v1.1.1
 #jettech/kube-webhook-certgen:v1.5.2
-kube-scheduler:v1.23.0
+dyrnq/kube-scheduler:v1.23.0
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64
