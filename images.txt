@@ -46,9 +46,10 @@
 #jettech/kube-webhook-certgen:v1.5.2
 #--platform=linux/arm64 dyrnq/kube-scheduler:v1.23.0
 #--platform=linux/arm64 dyrnq/kube-scheduler:v1.28.0
-mysql:5.7.30
-busybox:1.32
+#mysql:5.7.30
+#busybox:1.32
 #node:18-alpine3.18
+docker.io/bitnami/redis-cluster:6.2.7-debian-10-r22
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
