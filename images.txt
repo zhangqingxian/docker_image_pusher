@@ -57,7 +57,8 @@
 #docker.io/bitnami/clickhouse:25.3.2-debian-12-r3
 #elasticsearch:7.9.3
 #kibana:7.9.3
-ubuntu:22.04
+#ubuntu:22.04
+ghcr.io/1panel-dev/maxkb-vector-model:v1.0.1
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
