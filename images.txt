@@ -60,7 +60,8 @@
 #ubuntu:22.04
 #ghcr.io/1panel-dev/maxkb-vector-model:v1.0.1
 #ghcr.io/1panel-dev/maxkb-python-pg:python3.11-pg15.8
-httpd:alpine
+#httpd:alpine
+registry.k8s.io/prometheus-adapter/prometheus-adapter:latest
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
