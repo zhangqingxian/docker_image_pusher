@@ -69,7 +69,10 @@
 #rayproject/ray-llm:2.46.0-py311-cu124
 #vllm/vllm-openai:latest
 #registry.k8s.io/lws/lws:0.7.0
-quay.io/coreos/etcd:v3.5.12
+#quay.io/coreos/etcd:v3.5.12
+docker.io/volcanosh/vc-webhook-manager:latest
+docker.io/volcanosh/vc-controller-manager:latest
+docker.io/volcanosh/vc-scheduler:latest
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
