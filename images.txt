@@ -88,7 +88,7 @@
 #--platform=linux/arm64 bitnami/etcd:3.5.4-debian-11-r4
 #--platform=linux/arm64 apache/apisix:2.15.1-debian
 #bitnami/etcd:latest
-gcr.io/etcd-development/etcd:v3.5.4
+gcr.io/etcd-development/etcd:v3.5.4-debian-11-r4
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
