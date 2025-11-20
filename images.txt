@@ -93,7 +93,8 @@
 #--platform=linux/arm64 apache/apisix-ingress-controller:1.6.0
 #jcmoraisjr/haproxy-ingress:v0.10.14
 #jcmoraisjr/haproxy-ingress:v0.15.0
-maqelabs/predixy:1.0.5
+#maqelabs/predixy:1.0.5
+bitnami/postgresql:17.6
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
