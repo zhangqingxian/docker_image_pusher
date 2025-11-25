@@ -98,9 +98,10 @@
 #quay.io/metallb/speaker
 #quay.io/frrouting/frr:stable_7.5
 #quay.io/metallb/controller
-skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.3.0
-skywalking.docker.scarf.sh/apache/skywalking-ui:10.3.0
-busybox:1.30
+#skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.3.0
+#skywalking.docker.scarf.sh/apache/skywalking-ui:10.3.0
+#busybox:1.30
+docker.elastic.co/elasticsearch/elasticsearch:7.17.3
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
