@@ -105,7 +105,8 @@
 #docker.elastic.co/elasticsearch/elasticsearch:7.5.1
 #apache/skywalking-oap-server:6.6.0-es7
 #apache/skywalking-ui:6.6.0
-vllm/vllm-omni:v0.11.0rc1
+#vllm/vllm-omni:v0.11.0rc1
+--platform=linux/arm64 ghcr.io/cloudtty/cloudshell-operator:v0.5.3
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
