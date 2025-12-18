@@ -107,7 +107,9 @@
 #apache/skywalking-ui:6.6.0
 #vllm/vllm-omni:v0.11.0rc1
 #--platform=linux/arm64 ghcr.io/cloudtty/cloudshell-operator:v0.5.3
---platform=linux/arm64 ghcr.io/cloudtty/cloudshell:v0.5.3
+#--platform=linux/arm64 ghcr.io/cloudtty/cloudshell:v0.5.3
+cr.kagent.dev/kagent-dev/kagent/controller:1.0.0
+mcp/grafana:latest
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
