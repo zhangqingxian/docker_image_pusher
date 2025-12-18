@@ -112,8 +112,8 @@
 #ghcr.io/kagent-dev/kmcp/controller:0.2.2
 #ghcr.io/kagent-dev/doc2vec/mcp:1.1.14
 #ghcr.io/kagent-dev/kagent/tools:0.0.12
-ghcr.io/kagent-dev/kagent/controller:1.0.0
-ghcr.io/kagent-dev/kagent/ui:1.0.0
+ghcr.io/kagent-dev/kagent/controller:0.7.7
+ghcr.io/kagent-dev/kagent/ui:0.7.7
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
