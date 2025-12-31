@@ -115,13 +115,15 @@
 #ghcr.io/kagent-dev/kagent/controller:0.7.7
 #ghcr.io/kagent-dev/kagent/ui:0.7.7
 # kagent-dev-agent: ########################################################################################################################
-ghcr.io/kagent-dev/kagent/app:0.7.7
-ghcr.io/kagent-dev/kagent/helm/kagent:0.7.7
-ghcr.io/kagent-dev/kagent/agents/istio-agent:0.7.7
-ghcr.io/kagent-dev/kagent/agents/helm-agent:0.7.7
-ghcr.io/kagent-dev/kagent/agents/argo-rollouts-agent:0.7.7
-ghcr.io/kagent-dev/kagent/agents/promql-agent:0.7.7
-ghcr.io/kagent-dev/kagent/agents/observability-agent:0.7.7
+# ghcr.io/kagent-dev/kagent/app:0.7.7
+# ghcr.io/kagent-dev/kagent/helm/kagent:0.7.7
+#ghcr.io/kagent-dev/kagent/agents/istio-agent:0.7.7
+#ghcr.io/kagent-dev/kagent/agents/helm-agent:0.7.7
+#ghcr.io/kagent-dev/kagent/agents/argo-rollouts-agent:0.7.7
+#ghcr.io/kagent-dev/kagent/agents/promql-agent:0.7.7
+#ghcr.io/kagent-dev/kagent/agents/observability-agent:0.7.7
+docker.io/bitnami/zookeeper:3.7.0-debian-10-r242
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
+
