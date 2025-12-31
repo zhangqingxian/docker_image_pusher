@@ -122,8 +122,7 @@
 #ghcr.io/kagent-dev/kagent/agents/argo-rollouts-agent:0.7.7
 #ghcr.io/kagent-dev/kagent/agents/promql-agent:0.7.7
 #ghcr.io/kagent-dev/kagent/agents/observability-agent:0.7.7
-docker.io/bitnami/zookeeper:3.7.0-debian-10-r242
+bitnami/zookeeper:3.7.0-debian-10-r242
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
-
