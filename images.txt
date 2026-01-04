@@ -125,8 +125,9 @@
 #apache/zookeeper:3.7.0-debian-10-r242
 #node:22-alpine3.20
 #python:3.11-slim-bookworm
-docker.io/cfssl/cfssl:latest
-docker.io/bitnamisecure/kubectl:latest
+#docker.io/cfssl/cfssl:latest
+#docker.io/bitnamisecure/kubectl:latest
+apache/apisix:3.5.0-debian
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
