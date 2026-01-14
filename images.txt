@@ -136,7 +136,8 @@
 #docker.io/karmada/karmada-webhook:v1.16.0
 #node:22-slim
 #docker.io/karmada/karmada-agent:v1.16.0
-vllm/vllm-openai:v0.13.0
+#vllm/vllm-openai:v0.13.0
+curlimages/curl:latest
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
