@@ -138,7 +138,7 @@
 #docker.io/karmada/karmada-agent:v1.16.0
 #vllm/vllm-openai:v0.13.0
 #curlimages/curl:latest
-quay.io/submariner:devel
+quay.io/submariner/submariner:devel
 quay.io/submariner/submariner-operator:release-0.22
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
