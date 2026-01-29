@@ -144,7 +144,8 @@
 #quay.io/submariner/lighthouse-coredns:devel
 #quay.io/submariner/submariner-route-agent:devel
 #registry.k8s.io/ingress-nginx/controller:v1.14.2
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.6
+#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.6
+apache/apisix:2.15.3
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
