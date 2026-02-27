@@ -164,7 +164,8 @@
 #flomesh/fsm-controller:1.0.0
 #flomesh/pipy-repo:0.90.1-87
 #flomesh/fsm-injector:1.0.0
-flomesh/pipy:latest
+#flomesh/pipy:latest
+flomesh/fsm-sidecar-init:1.0.0
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
