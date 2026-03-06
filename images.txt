@@ -167,12 +167,13 @@
 #flomesh/pipy:latest
 #flomesh/fsm-sidecar-init:1.0.0
 #flomesh/pipy:0.90.1-87
-apache/apisix:3.15.0-debian
-apache/apisix:3.15.0-ubuntu
-bitnamilegacy/etcd:latest
-apache/apisix-ingress-controller:2.0.1
-ghcr.io/api7/adc:0.23.1
-apache/apisix-dashboard:3.0.0-alpine
+#apache/apisix:3.15.0-debian
+#apache/apisix:3.15.0-ubuntu
+#bitnamilegacy/etcd:latest
+#apache/apisix-ingress-controller:2.0.1
+#ghcr.io/api7/adc:0.23.1
+#apache/apisix-dashboard:3.0.0-alpine
+bitnamilegacy/etcd:3.6.4-debian-12-r3
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
