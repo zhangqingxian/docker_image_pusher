@@ -175,7 +175,7 @@
 #bitnamilegacy/etcd:3.6.4-debian-12-r3
 apache/apisix-ingress-controller:1.8.0
 apache/apisix:3.11.0-debian
-bitnami/etcd:3.5.10-debian-11-r2
+bitnamilegacy/etcd:3.5.10-debian-11-r2
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
