@@ -191,7 +191,10 @@
 #ghcr.io/element-hq/ess-helm/matrix-tools:0.5.6
 #ghcr.io/element-hq/synapse:v1.140.0
 #docker.io/prometheuscommunity/postgres-exporter:v0.18.1
-awesometechnologies/synapse-admin:latest
+#awesometechnologies/synapse-admin:latest
+docker.io/bitnamilegacy/redis:7.0.12-debian-11-r34
+ghcr.io/element-hq/synapse:v1.149.1
+docker.io/bitnamilegacy/postgresql:15.4.0-debian-11-r45
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
