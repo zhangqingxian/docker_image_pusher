@@ -200,7 +200,8 @@
 #nacos/nacos-server:v3.2.0-BETA
 #nacos/nacos-peer-finder-plugin:latest
 #ygqygq2/mysql-exec-sql:latest
-bitnami/mysql:8.0.32-debian-11-r8
+#bitnami/mysql:8.0.32-debian-11-r8
+mysql:8.0.32-debian
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
