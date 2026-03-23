@@ -195,8 +195,9 @@
 #docker.io/bitnamilegacy/redis:7.0.12-debian-11-r34
 #ghcr.io/element-hq/synapse:v1.149.1
 #docker.io/bitnamilegacy/postgresql:15.4.0-debian-11-r45
-docker.io/jettech/kube-webhook-certgen:v1.5.1
-k8s.gcr.io/ingress-nginx/controller:v0.48.1@sha256:e9fb216ace49dfa4a5983b183067e97496e7a8b307d2093f4278cd550c303899
+#docker.io/jettech/kube-webhook-certgen:v1.5.1
+#k8s.gcr.io/ingress-nginx/controller:v0.48.1@sha256:e9fb216ace49dfa4a5983b183067e97496e7a8b307d2093f4278cd550c303899
+nacos/nacos-server:v3.2.0-BETA
 #支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
