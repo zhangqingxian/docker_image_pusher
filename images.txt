@@ -218,11 +218,12 @@
 #fengmk2/cnpmcore:latest
 #ghcr.io/cnpm/cnpmcore:latest
 #minio/minio:latest
-ghcr.io/iflytek/skillhub-server:v0.2.3
-ghcr.io/iflytek/skillhub-web:v0.2.2
-ghcr.io/iflytek/skillhub-scanner:v0.2.3
-postgres:16-alpine
-redis:7-alpine
+#ghcr.io/iflytek/skillhub-server:v0.2.3
+#ghcr.io/iflytek/skillhub-web:v0.2.2
+#ghcr.io/iflytek/skillhub-scanner:v0.2.3
+#postgres:16-alpine
+#redis:7-alpine
+pypa/bandersnatch:s3-3.14
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
