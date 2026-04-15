@@ -224,7 +224,8 @@
 #postgres:16-alpine
 #redis:7-alpine
 #pypa/bandersnatch:s3-3.14
-nacos/nacos-server:v3.2.1-2026.04.03
+#nacos/nacos-server:v3.2.1-2026.04.03
+nousresearch/hermes-agent:0.8.0
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
