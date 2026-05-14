@@ -240,7 +240,8 @@
 #python:2.7.7
 #python:2.7.8
 #python:2.7.18
-mbaltrusitis/centos-python:2.7
+#mbaltrusitis/centos-python:2.7
+k8s.gcr.io/kubernetes-zookeeper:1.0-3.4.10
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
