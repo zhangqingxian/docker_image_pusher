@@ -14,11 +14,16 @@
 #docker.io/flannel/flannel-cni-plugin:v1.1.2
 #quay.io/calico/node:v3.27.4
 #quay.io/calico/cni:v3.27.4
-quay.io/calico/pod2daemon-flexvol:v3.27.4
-quay.io/calico/kube-controllers:v3.27.4
-quay.io/calico/typha:v3.27.4
-quay.io/calico/apiserver:v3.27.4
-docker.io/weaveworks/weave-kube:2.8.1
+#quay.io/calico/pod2daemon-flexvol:v3.27.4
+#quay.io/calico/kube-controllers:v3.27.4
+#quay.io/calico/typha:v3.27.4
+#quay.io/calico/apiserver:v3.27.4
+#docker.io/weaveworks/weave-kube:2.8.1
+docker.io/weaveworks/weave-npc:2.8.1
+docker.io/kubeovn/kube-ovn:v1.11.5
+docker.io/cloudnativelabs/kube-router:v2.0.0
+registry.k8s.io/pause:3.9
+ghcr.io/kube-vip/kube-vip:v0.8.0
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
