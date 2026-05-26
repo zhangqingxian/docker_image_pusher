@@ -9,11 +9,16 @@
 #quay.io/cilium/hubble-ui:v0.11.0
 #quay.io/cilium/hubble-ui-backend:v0.11.0
 #docker.io/envoyproxy/envoy:v1.22.5
-ghcr.io/k8snetworkplumbingwg/multus-cni:v3.8
-docker.io/flannel/flannel:v0.22.0
-docker.io/flannel/flannel-cni-plugin:v1.1.2
-quay.io/calico/node:v3.27.4
-quay.io/calico/cni:v3.27.4
+#ghcr.io/k8snetworkplumbingwg/multus-cni:v3.8
+#docker.io/flannel/flannel:v0.22.0
+#docker.io/flannel/flannel-cni-plugin:v1.1.2
+#quay.io/calico/node:v3.27.4
+#quay.io/calico/cni:v3.27.4
+quay.io/calico/pod2daemon-flexvol:v3.27.4
+quay.io/calico/kube-controllers:v3.27.4
+quay.io/calico/typha:v3.27.4
+quay.io/calico/apiserver:v3.27.4
+docker.io/weaveworks/weave-kube:2.8.1
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
