@@ -19,11 +19,16 @@
 #quay.io/calico/typha:v3.27.4
 #quay.io/calico/apiserver:v3.27.4
 #docker.io/weaveworks/weave-kube:2.8.1
-docker.io/weaveworks/weave-npc:2.8.1
-docker.io/kubeovn/kube-ovn:v1.11.5
-docker.io/cloudnativelabs/kube-router:v2.0.0
-registry.k8s.io/pause:3.9
-ghcr.io/kube-vip/kube-vip:v0.8.0
+#docker.io/weaveworks/weave-npc:2.8.1
+#docker.io/kubeovn/kube-ovn:v1.11.5
+#docker.io/cloudnativelabs/kube-router:v2.0.0
+#registry.k8s.io/pause:3.9
+#ghcr.io/kube-vip/kube-vip:v0.8.0
+docker.io/library/nginx:1.25.2-alpine
+docker.io/library/haproxy:2.8.2-alpine
+registry.k8s.io/coredns/coredns:v1.10.1
+registry.k8s.io/dns/k8s-dns-node-cache:1.22.28
+registry.k8s.io/cpa/cluster-proportional-autoscaler:v1.8.8
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
