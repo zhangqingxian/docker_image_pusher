@@ -58,7 +58,9 @@
 #registry.k8s.io/kube-proxy:v1.28.15
 #nginx:1.25.0
 #ghcr.io/flannel-io/flannel:v0.28.4
-ghcr.io/flannel-io/flannel-cni-plugin:v1.9.1-flannel1
+#ghcr.io/flannel-io/flannel-cni-plugin:v1.9.1-flannel1
+quay.io/brancz/kube-rbac-proxy:v0.18.1
+quay.io/prometheus-operator/prometheus-operator:v0.76.2
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
