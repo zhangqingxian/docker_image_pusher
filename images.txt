@@ -61,7 +61,8 @@
 #ghcr.io/flannel-io/flannel-cni-plugin:v1.9.1-flannel1
 #quay.io/brancz/kube-rbac-proxy:v0.18.1
 #quay.io/prometheus-operator/prometheus-operator:v0.76.2
-quay.io/prometheus-operator/prometheus-config-reloader:v0.76.2
+#quay.io/prometheus-operator/prometheus-config-reloader:v0.76.2
+registry.k8s.io/pause:3.8
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64
