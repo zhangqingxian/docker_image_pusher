@@ -60,8 +60,11 @@
 #ghcr.io/flannel-io/flannel:v0.28.4
 #ghcr.io/flannel-io/flannel-cni-plugin:v1.9.1-flannel1
 #quay.io/brancz/kube-rbac-proxy:v0.18.1
+######################prometheus$######################
 #quay.io/prometheus-operator/prometheus-operator:v0.76.2
 #quay.io/prometheus-operator/prometheus-config-reloader:v0.76.2
+quay.io/prometheus-operator/prometheus:v2.54.1
+########################################################
 #registry.k8s.io/pause:3.8
 ################ceph###################
 #quay.io/cephcsi/cephcsi:v3.9.0
@@ -71,7 +74,7 @@
 #registry.k8s.io/sig-storage/csi-snapshotter:v6.2.2
 #registry.k8s.io/sig-storage/csi-attacher:v4.3.0
 #rook/ceph:v1.12.11
-quay.io/ceph/ceph:v17.2.6
+#quay.io/ceph/ceph:v17.2.6
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
