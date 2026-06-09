@@ -63,7 +63,7 @@
 ######################prometheus$######################
 #quay.io/prometheus-operator/prometheus-operator:v0.76.2
 #quay.io/prometheus-operator/prometheus-config-reloader:v0.76.2
-quay.io/prometheus-operator/prometheus:v2.54.1
+quay.io/prom/prometheus:v2.54.1
 ########################################################
 #registry.k8s.io/pause:3.8
 ################ceph###################
