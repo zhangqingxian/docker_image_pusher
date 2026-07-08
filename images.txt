@@ -76,7 +76,8 @@
 #registry.k8s.io/sig-storage/csi-attacher:v4.3.0
 #rook/ceph:v1.12.11
 #quay.io/ceph/ceph:v17.2.6
---platform=linux/arm64 projecthami/ascend-device-plugin:v1.2.0
+#--platform=linux/arm64 projecthami/ascend-device-plugin:v1.2.0
+projecthami/hami:v2.8.3
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
