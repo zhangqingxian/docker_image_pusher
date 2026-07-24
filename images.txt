@@ -79,7 +79,8 @@
 #--platform=linux/arm64 projecthami/ascend-device-plugin:v1.2.0
 #projecthami/hami:v2.8.3
 #projecthami/hami:v2.9.0
-grafana/grafana:10.2.3
+#grafana/grafana:10.2.3
+hashicorp/consul-k8s-control-plane:0.49.3
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
