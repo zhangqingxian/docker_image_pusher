@@ -85,7 +85,8 @@
 #smirl/yages:0.1.3
 #erpangzuikure/skywalking-agent-sidecar:8.9.0.6
 #projecthami/hami:v2.10.0
---platform=linux/arm64 projecthami/ascend-device-plugin:v1.4.0
+#--platform=linux/arm64 projecthami/ascend-device-plugin:v1.4.0
+docker.elastic.co/eck/eck-operator:2.16.1
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
