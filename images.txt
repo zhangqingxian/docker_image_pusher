@@ -87,7 +87,10 @@
 #projecthami/hami:v2.10.0
 #--platform=linux/arm64 projecthami/ascend-device-plugin:v1.4.0
 #docker.elastic.co/eck/eck-operator:2.16.1
---platform=linux/arm64 projecthami/ascend-device-plugin:v1.4.1
+#--platform=linux/arm64 projecthami/ascend-device-plugin:v1.4.1
+--platform=linux/arm64 ghcr.io/berriai/litellm-database:1.94.0
+#--platform=linux/arm64 docker.io/bitnami/postgresql:16.2.0-debian-12-r6
+#--platform=linux/arm64 docker.io/bitnami/redis:7.2.4-debian-12-r9
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
