@@ -89,8 +89,8 @@
 #docker.elastic.co/eck/eck-operator:2.16.1
 #--platform=linux/arm64 projecthami/ascend-device-plugin:v1.4.1
 #--platform=linux/arm64 ghcr.io/berriai/litellm-database:1.94.0
---platform=linux/arm64 postgresql:16-alpine
---platform=linux/arm64 redis:7.2-alpine
+--platform=linux/arm64 postgres:16-alpine
+#--platform=linux/arm64 redis:7.2-alpine
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
