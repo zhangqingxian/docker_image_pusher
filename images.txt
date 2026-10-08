@@ -91,13 +91,14 @@
 #--platform=linux/arm64 ghcr.io/berriai/litellm-database:1.94.0
 #--platform=linux/arm64 postgres:16-alpine
 #--platform=linux/arm64 redis:7.2-alpine
-docker.io/bitnamilegacy/minio:2024.4.6-debian-12-r0
-langgenius/dify-api:1.10.1-fix.1
-langgenius/dify-web:1.10.1-fix.1
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.5.1-local
-docker.io/bitnamilegacy/postgresql:16.2.0-debian-12-r15
-docker.io/bitnamilegacy/redis:7.2.4-debian-12-r11
+#docker.io/bitnamilegacy/minio:2024.4.6-debian-12-r0
+#langgenius/dify-api:1.10.1-fix.1
+#langgenius/dify-web:1.10.1-fix.1
+#langgenius/dify-sandbox:0.2.12
+#langgenius/dify-plugin-daemon:0.5.1-local
+#docker.io/bitnamilegacy/postgresql:16.2.0-debian-12-r15
+#docker.io/bitnamilegacy/redis:7.2.4-debian-12-r11
+registry.k8s.io/ingress-nginx/controller:v1.9.1@sha256:605a737877de78969493a4b1213b21de4ee425d2926906857b98050f57a95b25
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
