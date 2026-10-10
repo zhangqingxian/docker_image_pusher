@@ -99,7 +99,9 @@
 #docker.io/bitnamilegacy/postgresql:16.2.0-debian-12-r15
 #docker.io/bitnamilegacy/redis:7.2.4-debian-12-r11
 #registry.k8s.io/ingress-nginx/controller:v1.9.1@sha256:605a737877de78969493a4b1213b21de4ee425d2926906857b98050f57a95b25
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407@sha256:543c40fd093964bc9ab509d3e791f9989963021f1e9e4c9c7b6700b02bfb227b
+#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407@sha256:543c40fd093964bc9ab509d3e791f9989963021f1e9e4c9c7b6700b02bfb227b
+ghcr.io/clickhouse/clickhouse-operator:v0.0.7
+quay.io/mongodb/mongodb-kubernetes:1.7.0
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
