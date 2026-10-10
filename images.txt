@@ -102,10 +102,11 @@
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407@sha256:543c40fd093964bc9ab509d3e791f9989963021f1e9e4c9c7b6700b02bfb227b
 #ghcr.io/clickhouse/clickhouse-operator:v0.0.7
 #quay.io/mongodb/mongodb-kubernetes:1.7.0
-docker.hyperdx.io/hyperdx/hyperdx:2.22.0
-busybox@sha256:1fcf5df59121b92d61e066df1788e8df0cc35623f5d62d9679a41e163b6a0cdb
-clickhouse/clickhouse-server:25.7-alpine
-docker.clickhouse.com/clickhouse/clickstack-otel-collector:2.19.0
+#docker.hyperdx.io/hyperdx/hyperdx:2.22.0
+#busybox@sha256:1fcf5df59121b92d61e066df1788e8df0cc35623f5d62d9679a41e163b6a0cdb
+#clickhouse/clickhouse-server:25.7-alpine
+#docker.clickhouse.com/clickhouse/clickstack-otel-collector:2.19.0
+docker.io/clickhouse/clickhouse-keeper:latest
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
