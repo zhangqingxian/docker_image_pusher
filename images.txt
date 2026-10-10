@@ -106,7 +106,8 @@
 #busybox@sha256:1fcf5df59121b92d61e066df1788e8df0cc35623f5d62d9679a41e163b6a0cdb
 #clickhouse/clickhouse-server:25.7-alpine
 #docker.clickhouse.com/clickhouse/clickstack-otel-collector:2.19.0
-docker.io/clickhouse/clickhouse-keeper:latest
+#docker.io/clickhouse/clickhouse-keeper:latest
+mysql:8.0.34
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
