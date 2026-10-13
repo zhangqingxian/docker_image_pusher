@@ -107,7 +107,8 @@
 #clickhouse/clickhouse-server:25.7-alpine
 #docker.clickhouse.com/clickhouse/clickstack-otel-collector:2.19.0
 #docker.io/clickhouse/clickhouse-keeper:latest
-mysql:8.0.34
+#mysql:8.0.34
+clickhouse/clickhouse-server:23.4.2.11-alpine
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
