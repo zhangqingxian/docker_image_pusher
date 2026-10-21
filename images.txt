@@ -108,7 +108,8 @@
 #docker.clickhouse.com/clickhouse/clickstack-otel-collector:2.19.0
 #docker.io/clickhouse/clickhouse-keeper:latest
 #mysql:8.0.34
-clickhouse/clickhouse-server:23.4.2.11-alpine
+#clickhouse/clickhouse-server:23.4.2.11-alpine
+docker.io/bitnami/kubectl:1.25.9-debian-11-r8
 ###############################################
 ##支持指定架构
 #--platform=linux/amd64 linux/arm64 xiaoyaliu/alist
